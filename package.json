@@ -1,0 +1,8 @@
+{
+  "name": "nayaui",
+  "private": true,
+  "version": "0.1.0",
+  "description": "The Enterprise Design System",
+  "license": "MIT",
+  "packageManager": "pnpm@11.11.0"
+}
