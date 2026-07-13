@@ -3,7 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "description": "React implementation of the NAYAUI Design System",
-  "license": "MIT",
   "type": "module",
-  "sideEffects": false
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
+  }
 }
